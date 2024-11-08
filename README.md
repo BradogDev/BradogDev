@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Deep Learning. IA Computer Vision. OCR IMAGE PROCESSING**
 
-- 👯 I’m looking to collaborate on **SISAD CLOUD WEB PLATAFORM**
+- 👯 I’m looking to collaborate on [SISAD CLOUD WEB PLATAFORM](https://github.com/sisadcloud?tab=overview&from=2024-09-01&to=2024-09-30)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fradyzz](https://github.com/BradogDev)
+- 👨‍💻 All of my projects are available at [https://github.com/BradogDev](https://github.com/BradogDev)
 
 - 💬 Ask me about **C#, .Net, Azure, OCR, Java, Google Cloud, Android**
 
