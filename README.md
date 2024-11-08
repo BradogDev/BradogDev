@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradogdev&label=Profile%20views&color=0e75b6&style=flat" alt="bradogdev" /> </p>
 
-- 🔭 I’m currently working on [OCR System With DeepLearning](https://github.com/Fradyzz/OCR_DeepLearning)
+- 🔭 I’m currently working on [OCR System With DeepLearning](https://github.com/BradogDev/OCR_DeepLearning)
 
 - 🌱 I’m currently learning **Deep Learning. IA Computer Vision. OCR IMAGE PROCESSING**
 
